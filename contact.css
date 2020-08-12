@@ -1,0 +1,26 @@
+body{
+	color:green;
+	background-image:url("./agriculture-beach-blur-car-386010.jpg");
+	background-size:cover; 
+	margin:0;
+}
+h1	{
+	color:black;
+	text-align:center;
+	font-size:4em;
+	
+}
+main{
+	width:100%;
+	position:absolute;
+	top:10%
+	
+}
+.f{
+	font-size:2em;
+	position:absolute;
+	width:100%;
+	top:30%;
+	text-align:center;
+	
+}
